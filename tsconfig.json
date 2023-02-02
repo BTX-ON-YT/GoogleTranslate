@@ -14,5 +14,11 @@
     "exclude": [
         "dist",
         "test",
-    ]
+    ],
+    "typedocOptions": {
+        "entryPoints": ["index.ts"],
+        "out": "docs",
+        "entryPointStrategy": "expand",
+        "readme": "README.md"
+    },
 }

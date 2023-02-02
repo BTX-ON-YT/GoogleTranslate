@@ -109,9 +109,9 @@ export enum Languages {
     Zulu = 'zu'
 }
 
-export interface IClientOptions {
+/*export interface IClientOptions {
     token?: string;
-}
+}*/
 
 export class Client {
     rest: Rest;

@@ -1,5 +1,5 @@
-import Client from './index';
-import { Languages } from './index';
+import Client from './dist/index';
+import { Languages } from './dist/index';
 
 const client = new Client();
 
