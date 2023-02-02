@@ -1,0 +1,12 @@
+{
+  "name": "googletranslate.js",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "undici": "^5.16.0"
+  },
+  "optionalDependencies": {
+    "google-translate-token": "^1.0.0"
+  }
+}
